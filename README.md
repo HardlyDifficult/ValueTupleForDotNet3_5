@@ -1,6 +1,10 @@
 This is an adaptation of part of the open source .NET Core 
 to get ValueTuples to work with .NET 3.5.
 
+Dll download (all you need in your project): 
+https://gitlab.com/HardlyDifficult/ValueTupleForDotNet3_5/raw/master/ValueTuple.dll
+
+<br><br>
 
 Example use case:
 
