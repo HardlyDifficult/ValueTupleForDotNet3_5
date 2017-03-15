@@ -9,11 +9,12 @@ var tuple = ("Wow", 42, .001);
 var name = tuple.Item1;
 
 
-
+<br><br><br>
 
 
 The original .NET source: 
 https://github.com/dotnet/corefx/blob/master/src/System.ValueTuple/src/System/ValueTuple/ValueTuple.cs
 
 Learn more at http://youtube.com/HardlyDifficult
+
 Join us live at http://twitch.tv/HardlyDifficult 
