@@ -1,4 +1,7 @@
-﻿// Licensed to the .NET Foundation under one or more agreements.
+﻿// HD: Original Source: https://github.com/dotnet/corefx/blob/bffef76f6af208e2042a2f27bc081ee908bb390b/src/System.ValueTuple/src/System/Runtime/CompilerServices/TupleElementNamesAttribute.cs
+// HD: No modifications made
+
+// Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
 // See the LICENSE file in the project root for more information.
 

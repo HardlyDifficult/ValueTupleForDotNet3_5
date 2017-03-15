@@ -1,6 +1,6 @@
-﻿// Original Source: https://github.com/dotnet/corefx/blob/master/src/System.ValueTuple/src/System/ValueTuple/ValueTuple.cs
-// Modified by Hardly Difficult to work with .NET 3.5
-
+﻿// HD: Original Source: https://github.com/dotnet/corefx/blob/master/src/System.ValueTuple/src/System/ValueTuple/ValueTuple.cs
+// HD: Modified by Hardly Difficult to work with .NET 3.5
+// HD: My comments and changes prefixed with HD:
 
 // Licensed to the .NET Foundation under one or more agreements.
 // The .NET Foundation licenses this file to you under the MIT license.
@@ -24,13 +24,15 @@ namespace System
     string ToStringEnd();
   }
 
+  /// <summary>
+  /// HD: This was added instead of using a resources file like .NET core does
+  /// </summary>
   static class ValueTupleConstants
-  {
+  { 
     public const string
       ArgumentException_ValueTupleIncorrectType = "The parameter should be a ValueTuple type of appropriate arity.",
       ArgumentException_ValueTupleLastArgumentNotAValueTuple = "The TRest type argument of ValueTuple`8 must be a ValueTuple.";
   }
-
 
   /// <summary>
   /// The ValueTuple types (from arity 0 to 8) comprise the runtime implementation that underlies tuples in C# and struct tuples in F#.

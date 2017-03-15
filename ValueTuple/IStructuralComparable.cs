@@ -1,6 +1,5 @@
-﻿#region Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
-// C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.2\mscorlib.dll
-#endregion
+﻿// HD: Original Source: C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.2\mscorlib.dll
+// HD: No modifications made
 
 namespace System.Collections
 {
