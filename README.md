@@ -18,11 +18,7 @@ var tuple = ("Wow", 42, .001);
 var name = tuple.Item1;
 
 
-# The original .NET source: 
-https://github.com/dotnet/corefx/blob/master/src/System.ValueTuple/src/System/ValueTuple/ValueTuple.cs
-
-<br><br>
-
-Learn more at https://www.youtube.com/watch?v=pJPtlEDIemw
-<br>
-Join us live at http://twitch.tv/HardlyDifficult 
+# References: 
+* The original .NET source: https://github.com/dotnet/corefx/blob/master/src/System.ValueTuple/
+* Learn more at https://www.youtube.com/watch?v=pJPtlEDIemw
+* Join us live at http://twitch.tv/HardlyDifficult 
