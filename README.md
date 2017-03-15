@@ -1,6 +1,8 @@
 This is an adaptation of part of the open source .NET Core 
 to get ValueTuples to work with .NET 3.5.
 
+For a video about this project: https://www.youtube.com/watch?v=pJPtlEDIemw
+
 <br>
 
 Dll download
@@ -22,6 +24,6 @@ https://github.com/dotnet/corefx/blob/master/src/System.ValueTuple/src/System/Va
 
 <br><br>
 
-Learn more at http://youtube.com/HardlyDifficult
+Learn more at https://www.youtube.com/watch?v=pJPtlEDIemw
 <br>
 Join us live at http://twitch.tv/HardlyDifficult 
